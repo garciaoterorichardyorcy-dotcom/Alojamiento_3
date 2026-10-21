@@ -5,5 +5,30 @@
 			"name": "luis"
 		}
 	],
-	"models": []
+	"models": [
+		{
+			"case_id": "dental0001",
+			"client": "prueba3",
+			"doctor_id": "luis",
+			"expires_at_unix": 1792645036,
+			"file": "dental0001-superior-1.stl",
+			"id": "dental0001-superior-1",
+			"layer": "upper_1",
+			"name": "Arcada superior 1",
+			"version": "1792645036",
+			"z_up": false
+		},
+		{
+			"case_id": "dental0001",
+			"client": "prueba3",
+			"doctor_id": "luis",
+			"expires_at_unix": 1792645036,
+			"file": "dental0001-superior-2.stl",
+			"id": "dental0001-superior-2",
+			"layer": "upper_2",
+			"name": "Arcada superior 2",
+			"version": "1792645036",
+			"z_up": false
+		}
+	]
 }
